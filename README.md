@@ -19,7 +19,7 @@ Extensive API documentation is provided [here](https://urdfpy.readthedocs.io/en/
 You can install urdfpy directly from pip.
 
 ```bash
-pip install urdfpy
+pip install urchin
 ```
 
 ## User Guide
